@@ -2,12 +2,8 @@
     "version": 2,
     "rewrites": [
         {
-            "source": "/blabla",
+            "source": "/api",
             "destination": "/api/api"
-        },
-        {
-            "source": "/configure",
-            "destination": "/index.html"
         }
     ]
 }
